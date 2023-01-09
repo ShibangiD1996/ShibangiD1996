@@ -41,7 +41,7 @@
 <h2 align="left">Social Media </h2>
 
 
-[](https://github.com/ShibangiD1996)  [<img src='https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/White/LinkedIN_white.svg' alt='linkedin' height='40' width='60'>](https://www.linkedin.com/in/gaurav-singh-63196723a/)  
+
 
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShibangiD1996&theme=rogue)](https://github.com/ShibangiD1996/github-readme-activity-graph)
 
