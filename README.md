@@ -37,8 +37,8 @@
 </p>
 
 <h3 align="center">🏆 Achivements</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p>
+<div align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p></div>
 <h2 align="left">Social Media </h2>
 
 
