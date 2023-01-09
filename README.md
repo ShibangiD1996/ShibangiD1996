@@ -36,12 +36,8 @@
 
 <h3 align="center">🏆 Achivements</h3>
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p></div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p></div>
 <h2 align="left">Social Media </h2>
-
-
-
-
 [![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShibangiD1996&theme=rogue)](https://github.com/ShibangiD1996/github-readme-activity-graph)
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
