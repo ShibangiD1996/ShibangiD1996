@@ -46,7 +46,7 @@
 <h3 align="center">🏆 Achivements</h3>
 <div align="center">
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibangid1996" alt="shibangid1996" /></a> </p></div>
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShibangiD1996&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
