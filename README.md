@@ -11,11 +11,12 @@
 
 - 📫 How to reach me **shibangidas109@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1spNwJ1770ls2HhxhJ4Rrvvo2dtlkq1iz/view?usp=share_link" target="blank">Resume</a></li>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1spNwJ1770ls2HhxhJ4Rrvvo2dtlkq1iz/view?usp=share_link" target="blank">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <ul>
-<li>
-  <a href="https://www.linkedin.com/in/shibangi-das/" target="blank">Linkedin</a></li>
+  <li>
+  <a href="https://www.linkedin.com/in/shibangi-das/" target="blank">Linkedin</a>
+  </li>
   <li>
     <a href="https://ShibangiD1996.github.io/" target="blank">Portfolio</a>
   </li>
