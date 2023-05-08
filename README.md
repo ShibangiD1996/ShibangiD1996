@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShibangiD1996](https://github.com/ShibangiD1996)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React JS,Redux**
+- 💬 Ask me about **HTML,CSS,JavaScript,React JS,Redux,Espress, Node JS,MongoDB**
 
 - 📫 How to reach me **shibangidas109@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R9deyk_5dqI_BIXXGYZWau1pTZu8F--O/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1spNwJ1770ls2HhxhJ4Rrvvo2dtlkq1iz/view?usp=share_link)
 <h3 align="left">Connect with me:</h3>
 <ul>
 <li>
