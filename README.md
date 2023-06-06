@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shibangidas109@gmail.com**
 
-- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/181Mgr-wtqs9PdZTg6tAy4YOp_5C3VT-4/view?usp=share_link" target="blank">Resume</a>
+- 📄 Know about my experiences  <a href="https://drive.google.com/file/d/1fpLMX-f3L6FEkvJpd3JaQxAQHUmZrJ7y/view?usp=drive_link" target="blank">Resume</a>
 <h3 align="left">Connect with me:</h3>
 <ul>
   <li>
