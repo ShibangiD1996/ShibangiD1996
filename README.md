@@ -9,11 +9,11 @@
 
   💫 About Me
   
-- 🌱 I’m currently learning **DATA ANALYST**
+- 🌱 I’m currently aspiring **DATA ANALYST** position.
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShibangiD1996](https://github.com/ShibangiD1996)
 
-- 💬 Ask me about **SQL,Microsoft Excell,Node JS,MongoDB,HTML,CSS,JavaScript,React JS**
+- 💬 Ask me about **SQL,Microsoft Excell,Node JS,MongoDB,HTML,CSS,Github,VS Code**
 
 - 📫 How to reach me **shibangidas109@gmail.com**
 
@@ -22,9 +22,6 @@
 <ul>
   <li>
   <a href="https://www.linkedin.com/in/shibangi-das/" target="blank">Linkedin</a>
-  </li>
-  <li>
-    <a href="https://ShibangiD1996.github.io/" target="blank">Portfolio</a>
   </li>
 </ul>
 
