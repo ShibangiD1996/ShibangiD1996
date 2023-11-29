@@ -4,7 +4,7 @@
 <img height="20%" width="30%" align="right"
  src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNjkxMjcsIm5iZiI6MTcwMTI2ODgyNywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI5VDE0NDAyN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjODAzOWJjZTljOTk3NzlkMGQ3YzA2M2I3MTA3MDUxNDgxMGM4OTVlMmVmMWY2NmYzZmM5NmQwMzk1ZWFkNDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DibcluDfEVmtiYon-SVyxJY8E95145rnIiqwD0lmTp0"/>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=shibangid1996&label=Profile%20views&color=0e75b6&style=flat" alt="shibangid1996" />
 </p>
 
