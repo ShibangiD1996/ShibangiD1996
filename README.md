@@ -9,11 +9,11 @@
 
   💫 About Me
   
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **DATA ANALYST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShibangiD1996](https://github.com/ShibangiD1996)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React JS,Redux,Espress, Node JS,MongoDB**
+- 💬 Ask me about **SQL,Microsoft Excell,Node JS,MongoDB,HTML,CSS,JavaScript,React JS**
 
 - 📫 How to reach me **shibangidas109@gmail.com**
 
