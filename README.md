@@ -1,5 +1,3 @@
-<img height="20%" width="100%" 
- src="file:///C:/Users/USER/Downloads/Banner.webp"/>
 
 <h1 align="center">Hi 👋, I'm Shibangi Das</h1>
 <h3 align="center">Aspiring Data Analyst from India</h3>
